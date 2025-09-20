@@ -1,1 +1,2 @@
-# gemini_mathmatical_problem_responses
+# Mathmatical Problems Responses 
+Creating the system to save the responses of some mathmatical problems by Gemini . 
